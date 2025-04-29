@@ -23,7 +23,8 @@ Armazenamento: filemanager.ai
 ```bash
 |-- index.html           # Página inicial  
 |-- conn.php             # Conexão com a base de dados 
-|-- signup_white.php     # Pagina de Signup  
+|-- signup_white.php     # Pagina de Signup
+|-- login_white.php      # Pagina de Login  
 |-- paginaprincipal.php  # Ver todos os contactos criados  
 |-- adicionar.php        # Adicionar contactos   
 ```
