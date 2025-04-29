@@ -17,21 +17,13 @@ Armazenamento: filemanager.ai
 💾 Guardar dados localmente (base de dados)  
 🔐 Validação de dados (formato dos caracteres, número de telefone)    
 
-# Requisitos
-
-...........................
-
-
 
 # Estrutura do Projeto  
 
 ```bash
-|-- index.php       # Página inicial  
-|-- config.php      # Configuração do banco de dados  
-|-- create.php      # Criar novo registro  
-|-- read.php        # Ler registros  
-|-- update.php      # Atualizar registro  
-|-- delete.php      # Deletar registro  
-|-- assets/         # CSS, JS, imagens  
-|-- database.sql    # Script para criar as tabelas (se disponível)  
+|-- index.html        # Página inicial  
+|-- conn.php         # Conexão com a base de dados 
+|-- signup_white.php # Pagina de Signup  
+|-- paginaprincipal.php         # Ver todos os contactos criados  
+|-- adicionar.php       # Adicionar contactos   
 ```
