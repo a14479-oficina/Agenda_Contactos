@@ -21,9 +21,9 @@ Armazenamento: filemanager.ai
 # Estrutura do Projeto  
 
 ```bash
-|-- index.html        # Página inicial  
-|-- conn.php         # Conexão com a base de dados 
-|-- signup_white.php # Pagina de Signup  
-|-- paginaprincipal.php         # Ver todos os contactos criados  
-|-- adicionar.php       # Adicionar contactos   
+|-- index.html           # Página inicial  
+|-- conn.php             # Conexão com a base de dados 
+|-- signup_white.php     # Pagina de Signup  
+|-- paginaprincipal.php  # Ver todos os contactos criados  
+|-- adicionar.php        # Adicionar contactos   
 ```
