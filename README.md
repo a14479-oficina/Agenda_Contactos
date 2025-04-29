@@ -3,11 +3,10 @@
 # Introdução
 Este projeto é uma aplicação CRUD que permite criar, eliminar e atualizar contactos.
 
-# Tecnologias Utilizadas
--> PHP   
--> PHPMyAdmin  
--> MySQL  
--> HTML/CSS  
+# 🛠️ Tecnologias Utilizadas
+Linguagem principal: PHP / CSS / HTML  
+Interface: alojamento-gratis.com  
+Armazenamento: filemanager.ai   
 
 # ✨ Funcionalidades
 ✅ Adicionar novos contactos (nome, telefone, email)  
