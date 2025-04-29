@@ -9,14 +9,14 @@ Este projeto é uma aplicação CRUD que permite criar, eliminar e atualizar con
 -> MySQL  
 -> HTML/CSS  
 
-#✨ Funcionalidades
-✅ Adicionar novos contactos (nome, telefone, email)
-🔍 Pesquisar contactos  
-📋 Listar todos os contactos guardados
-✏️ Editar dados de contactos existentes
-🗑️ Remover contactos
-💾 Guardar dados localmente (base de dados)
-🔐 Validação de dados (formato dos caracteres, número de telefone)  
+# ✨ Funcionalidades
+✅ Adicionar novos contactos (nome, telefone, email)  
+🔍 Pesquisar contactos    
+📋 Listar todos os contactos guardados  
+✏️ Editar dados de contactos existentes  
+🗑️ Remover contactos  
+💾 Guardar dados localmente (base de dados)  
+🔐 Validação de dados (formato dos caracteres, número de telefone)    
 
 # Requisitos
 
